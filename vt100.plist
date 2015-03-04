@@ -13,6 +13,22 @@
 					<key>url</key>
 					<string>http://58.213.14.165:8080/vt100/download/ios/vt100.ipa</string>
 				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>http://58.213.14.165:8080/vt100/download/ios/icon-large.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>http://58.213.14.165:8080/vt100/download/ios/icon-small.png</string>
+				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
